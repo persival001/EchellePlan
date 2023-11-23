@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">EchellePlan</string>
+    <string name="content_description_start_icon">check</string>
+    <string name="label">Mesure de départ</string>
+    <string name="mesure_voulue">Mesure voulue</string>
+    <string name="calcul">Calcul</string>
+    <string name="empty_value">Champ vide, veuillez entrer une valeur</string>
+    <string name="error_invalid_number">Numéro invalide</string>
+    <string name="result">L\'échelle à appliquer est de : %1$s%%</string>
+</resources>
